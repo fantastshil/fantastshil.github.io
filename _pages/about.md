@@ -33,6 +33,7 @@ My research interests are primarily focused on Multimodal Sentiment Analysis and
 
 **Liang Shi**, Fuyong Xu, Ru Wang, Yongqing Wei, Guangjin Wang, Bao Wang, Peiyu Liu
 
+_ICME (CCF-B)_
 </div>
 </div>
 
