@@ -33,8 +33,7 @@ My research interests are primarily focused on Multimodal Sentiment Analysis and
 
 **Liang Shi**, Fuyong Xu, Ru Wang, Yongqing Wei, Guangjin Wang, Bao Wang, Peiyu Liu
 
-_2024 IEEE International Conference on Multimedia and Expo (ICME2024) _
-_(CCF-B)_
+_2024 IEEE International Conference on Multimedia and Expo (ICME2024) (CCF-B)_
 </div>
 </div>
 
