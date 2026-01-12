@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Eng.D. student in Shandong University (SDU) . I am supervised by Prof. Yuliang Shi.
+I am currently an Eng.D. student at Shandong University (SDU) . I am supervised by Prof. Yuliang Shi.
 
 My research interests are primarily focused on Multimodal Sentiment Analysis and Multimodal Medicine.
 
