@@ -26,7 +26,7 @@ My research interests are primarily focused on Multimodal Sentiment Analysis and
 
 # 📝 Publications 
 <!-- Paper1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/IASE_image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Information Aggregate and Sentiment Enhance Network to Handle Missing Modalities for Multimodal Sentiment Analysis](https://ieeexplore.ieee.org/document/10687981)
@@ -44,9 +44,3 @@ My research interests are primarily focused on Multimodal Sentiment Analysis and
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
