@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a EngD student in Shandong University (SDU) . I am supervised by Prof. Yuliang Shi.
+I am currently a Eng.D. student in Shandong University (SDU) . I am supervised by Prof. Yuliang Shi.
 
 My research interests are primarily focused on Multimodal Sentiment Analysis and Multimodal Medicine.
 
@@ -45,7 +45,7 @@ _ICME (CCF-B)_
 - *2023.12* The third prize scholarship of Postgraduate, Shandong Normal Universuty.
 
 # 📖 Educations
-- *2025.09 - now*, EngD, Software Engineering, School of Software, Shandong University. 
+- *2025.09 - now*, Eng.D., Software Engineering, School of Software, Shandong University. 
 - *2022.08 - 2025.06*, M.Eng., Information and Communications Engineering, School of Information Science and Engineering, Shandong Normal University.
 - *2016.09 - 2020.06*, B.Eng., Communications Engineering, School of Information Science and Engineering, Shandong Normal University. 
 
