@@ -41,6 +41,7 @@ My research interests are primarily focused on Multimodal Sentiment Analysis and
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - now*, EngD, Software Engineering, School of Software, Shandong University. 
+- *2022.08 - 2025.06*, M.Eng., Information and Communications Engineering, School of Information Science and Engineering, Shandong Normal University.
+- *2016.09 - 2020.06*, B.Eng., Communications Engineering, School of Information Science and Engineering, Shandong Normal University. 
 
