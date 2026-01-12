@@ -42,7 +42,7 @@ _ICME (CCF-B)_
 - *2024.12* Excellent Postgraduate, Shandong Normal Universuty. 
 - *2024.12* The second prize scholarship of Postgraduate, Shandong Normal Universuty.
 - *2023.12* Excellent Postgraduate, Shandong Normal Universuty.
-- *2024.12* The third prize scholarship of Postgraduate, Shandong Normal Universuty.
+- *2023.12* The third prize scholarship of Postgraduate, Shandong Normal Universuty.
 
 # 📖 Educations
 - *2025.09 - now*, EngD, Software Engineering, School of Software, Shandong University. 
