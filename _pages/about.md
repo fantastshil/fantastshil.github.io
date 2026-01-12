@@ -37,8 +37,11 @@ My research interests are primarily focused on Multimodal Sentiment Analysis and
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06* Outstanding Master's Thesis, Shandong Normal University. 
+- *2024.12* Excellent Postgraduate, Shandong Normal Universuty. 
+- *2024.12* The second prize scholarship of Postgraduate, Shandong Normal Universuty.
+- *2023.12* Excellent Postgraduate, Shandong Normal Universuty.
+- *2024.12* The third prize scholarship of Postgraduate, Shandong Normal Universuty.
 
 # 📖 Educations
 - *2025.09 - now*, EngD, Software Engineering, School of Software, Shandong University. 
